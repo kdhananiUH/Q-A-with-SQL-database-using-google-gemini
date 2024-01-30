@@ -6,7 +6,21 @@
 + I have used 'genimi-pro'LLM model of Google GenerativeAI in this application.
 
 + For example, Let's take below database:
-![llm](https://github.com/kdhananiUH/Q-A-with-SQL-database-using-google-gemini/assets/111707291/f61a3e1b-cad4-4e53-9b5b-94594ec7b428)
+
++-----------+---------------------+---------+-------+
+|   NAME    |        CLASS        | SECTION | MARKS |
++-----------+---------------------+---------+-------+
+|  Kaushal  |    Probability     |    A    |   90  |
++-----------+---------------------+---------+-------+
+| Sudhanshu |     Statistics      |    B    |  100  |
++-----------+---------------------+---------+-------+
+|  Dhagash  |    Probability     |    A    |   86  |
++-----------+---------------------+---------+-------+
+|   Tirth   | Data Visualization |    C    |   50  |
++-----------+---------------------+---------+-------+
+|  Jainish  |        DEVOPS       |    A    |   35  |
++-----------+---------------------+---------+-------+
+
 
 Now, we'll test our model with some questions:
 
