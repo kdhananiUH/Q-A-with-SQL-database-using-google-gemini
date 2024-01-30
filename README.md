@@ -7,20 +7,7 @@
 
 + For example, Let's take below database:
 
-+-----------+---------------------+---------+-------+
-|   NAME    |        CLASS        | SECTION | MARKS |
-+-----------+---------------------+---------+-------+
-|  Kaushal  |    Probability     |    A    |   90  |
-+-----------+---------------------+---------+-------+
-| Sudhanshu |     Statistics      |    B    |  100  |
-+-----------+---------------------+---------+-------+
-|  Dhagash  |    Probability     |    A    |   86  |
-+-----------+---------------------+---------+-------+
-|   Tirth   | Data Visualization |    C    |   50  |
-+-----------+---------------------+---------+-------+
-|  Jainish  |        DEVOPS       |    A    |   35  |
-+-----------+---------------------+---------+-------+
-
+![Screenshot 2024-01-30 101025](https://github.com/kdhananiUH/Q-A-with-SQL-database-using-google-gemini/assets/111707291/284ad9d3-bdae-4251-8fce-e03f0b210da3)
 
 Now, we'll test our model with some questions:
 
